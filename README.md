@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-﻿"# Computer_Technology" 
-# Lects by AO
-=======
-# Computer_Technology
+﻿# Computer_Technology
 ## Lects by AO
->>>>>>> af8caac52ddc5770eb8a7ffc60f8e913700f3b47
 ### This readme create by Alexander Plutalov, Soglaev Paul, Bragazin Ivan, Zhukov Andrew
+===
+* В Файле kt.md содержатся лекции Скоморохова Александра Олеговича по курсу Компьютерные технологии в приборостроении.
 
+* Присутствуют описания представленных на лекциях программ: описание основных возможностей, интерфейс, основные команды- и представлены примеры работы программы.
 
