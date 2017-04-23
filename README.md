@@ -17,5 +17,7 @@
 * Ggoby
 * Maxima
 * Github
+* Freemind
+* Octave
 
 
