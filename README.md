@@ -10,6 +10,8 @@
 
 
 ## Список программ:
+* Markdown
+* Pandoc
 * JadRef
 * Scidavis
 * Gnuplot
@@ -17,7 +19,7 @@
 * Ggoby
 * Maxima
 * Github
+* Bazar
 * Freemind
 * Octave
-
 
